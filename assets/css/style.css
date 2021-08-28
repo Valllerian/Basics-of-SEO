@@ -1,8 +1,11 @@
+/* Universal selector that defines the box-sizing type and the size of its padding and margin */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* body\header\a\p - specific selectors for each element */
 
 body {
     background-color: #d9dcd6;
@@ -32,6 +35,8 @@ body {
     font-size: 20px;
 }
 
+/* More specific selector that shows us the pass to the element: header=>div=>ul */
+
 .header div ul {
     list-style-type: none;
 }
@@ -50,6 +55,8 @@ p {
     font-size: 16px;
 }
 
+/* Main banner and its size\positioning\source */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +65,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Classes that define the position of an element  */
 
 .float-left {
     float: left;
@@ -69,11 +78,16 @@ p {
     margin-left: 25px;
 }
 
+
+/*  Class with display: inline-block positions every part of an element on a new line */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Classes that modify the positioning\coloring of benefits section */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +148,8 @@ p {
     max-width: 150px;
 }
 
+/* Images and its parameters for each "benefit: */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +203,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling of the footer of the page */
 
 .footer {
     padding: 30px;
