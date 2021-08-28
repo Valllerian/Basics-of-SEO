@@ -5,9 +5,9 @@
     margin: 0;
 }
 
-/* body\header\a\p - specific selectors for each element */
+/* header\header\a\p - specific selectors for each element */
 
-body {
+header {
     background-color: #d9dcd6;
 }
 
@@ -213,6 +213,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
