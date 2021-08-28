@@ -17,16 +17,20 @@ This project helped me to deepen my knowledge on the topic as well as improve my
 ## Installation
 Current project has been saved in my personal GitHub repository and is currently available for cloning and reviews on:
 
-https://github.com/Valllerian/Basics-of-SEO
+https://github.com/Valllerian/HomeWork_Week1
 
 ## Usage
 Websites includes some usable links  to navigate through content:
 
-![Header of the website](assets/images/readme_images/ReadMe1.png)
+<br>
+<img alt="Header of the website" src="https://github.com/Valllerian/Basics-of-SEO/blob/master/assets/images/README_images/ReadMe1.png" />
+<br>
 
 Each link would bring us to the corresponding paragraph:
 
-![Main paragraphs](assets/images/readme_images/ReadMe2.png)
+<br>
+<img alt="Header of the website" src="https://github.com/Valllerian/Basics-of-SEO/blob/master/assets/images/README_images/ReadMe2.png" />
+<br>
 
 ## Credits
 Following resources  have been used while working on the project:
