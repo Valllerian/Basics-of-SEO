@@ -22,11 +22,11 @@ https://github.com/Valllerian/HomeWork_Week1
 ## Usage
 Websites includes some usable links  to navigate through content:
 
-![Header of the website](assets/images/readme_images/ReadMe1.bmp)
+![Header of the website](assets/images/readme_images/ReadMe1.png)
 
 Each link would bring us to the corresponding paragraph:
 
-![Main paragraphs](assets/images/readme_images/ReadMe2.bmp)
+![Main paragraphs](assets/images/readme_images/ReadMe2.png)
 
 ## Credits
 Following resources  have been used while working on the project:
