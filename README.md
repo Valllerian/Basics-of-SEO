@@ -17,7 +17,7 @@ This project helped me to deepen my knowledge on the topic as well as improve my
 ## Installation
 Current project has been saved in my personal GitHub repository and is currently available for cloning and reviews on:
 
-https://github.com/Valllerian/HomeWork_Week1
+https://github.com/Valllerian/Basics-of-SEO
 
 ## Usage
 Websites includes some usable links  to navigate through content:
